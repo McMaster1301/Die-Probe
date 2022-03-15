@@ -5,6 +5,13 @@ Herzlich Willkommen zu DER Probe. Ich hoffe es macht euch genausoviel spaß wie 
 
 ![Github Dark](Bilder/verschiedene helles.jpg)
 
+[ ] 5 Sterne
+[ ] 4 Sterne
+[ ] 3 Sterne
+[ ] 2 Sterne
+[ ] 1 Stern
+[ ] 0 Sterne
+
 
 
 
