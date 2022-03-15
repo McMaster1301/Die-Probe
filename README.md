@@ -5,6 +5,10 @@ title: Willkommen in der Kluft
 # Die Probe
 ## Willkommen
 
+```{r showChoro1}
+shiny::includeHTML("justanotherfile.html")
+```
+
 Herzlich Willkommen zu DER Probe. Ich hoffe es macht euch genausoviel spaß wie mir. Ein Tutorial wie die Website funktioniert erhaltet ihr von yours truely. Viel Spaß!
 
 ![Github Dark](Bilder/verschiedene helles.jpg)
