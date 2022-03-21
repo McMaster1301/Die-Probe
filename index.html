@@ -1,36 +1,12 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Die Probe</title>
-</head>
-<body>
-    <h1>
-        Die Probe
-    </h1>
-    <h2>
-        Willkommen
-    </h2>
-    Herzlich Willkommen zu DER Probe. Ich hoffe es macht euch genausoviel spaß wie mir. Ein Tutorial wie die Website funktioniert erhaltet ihr von yours truely. Viel Spaß!
-
-    <!--<img src="Bilder/verschiedene helles.jpg" alt="verschiedene Helles Sorten">-->
-
-    moar text before our buttons<br><br><br><br><br>
-
-    <div id="buttons.js/container"></div>
-    
-    <form action="/action_page.php">
-        <label for="fname">First name:</label>
-        <input type="text" id="fname" name="fname"><br><br>
-        <label for="lname">Last name:</label>
-        <input type="text" id="lname" name="lname"><br><br>
-        <input type="button" value="Submit"><br><br><br><br><br><br><br><br>
-
-        <input type="checkbox" value="Yessir">
-        <label for="first check">10 Sterne!!!</label>
-
-        <input type="range" name="Schieberegler" max="10" value="0">
-      </form>
-</body>
-</html>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+    <fieldset id="fs-frm-inputs">
+      <label for="full-name">Full Name</label>
+      <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+      <label for="email-address">Email Address</label>
+      <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+      <label for="message">Message</label>
+      <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+      <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    </fieldset>
+    <input type="submit" value="Submit">
+  </form>
