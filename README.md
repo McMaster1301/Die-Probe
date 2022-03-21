@@ -1,54 +1,19 @@
----
-title: Willkommen in der Kluft
----
+# Cayman theme
 
-# Die Probe
-## Willkommen
+Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
 
+You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
 
+![](http://cl.ly/image/1T3r3d18311V/content)
 
-Herzlich Willkommen zu DER Probe. Ich hoffe es macht euch genausoviel spaß wie mir. Ein Tutorial wie die Website funktioniert erhaltet ihr von yours truely. Viel Spaß!
+# Customizations
 
-![Image](Bilder/verschiedene helles.jpg)
+If you copy this theme for your own needs, feel free to customize the colors however you like. A couple of nice sources for gradient colors are http://uigradients.com and http://jxnblk.com/shade/.
 
-- [x]  5 Sterne
-- [ ]  4 Sterne
-- [ ]  3 Sterne
-- [ ]  2 Sterne
-- [ ]  1 Stern
-- [ ]  0 Sterne
+# Using with Jekyll
 
+If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# License
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/McMaster1301/Die-Probe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
