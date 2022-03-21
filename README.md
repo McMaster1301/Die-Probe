@@ -9,7 +9,7 @@ title: Willkommen in der Kluft
 
 Herzlich Willkommen zu DER Probe. Ich hoffe es macht euch genausoviel spaß wie mir. Ein Tutorial wie die Website funktioniert erhaltet ihr von yours truely. Viel Spaß!
 
-![Github Dark](Bilder/verschiedene helles.jpg)
+![Image](Bilder/verschiedene helles.jpg)
 
 - [x]  5 Sterne
 - [ ]  4 Sterne
