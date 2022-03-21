@@ -18,14 +18,6 @@ Herzlich Willkommen zu DER Probe. Ich hoffe es macht euch genausoviel spaß wie 
 - [ ]  1 Stern
 - [ ]  0 Sterne
 
-Lorem ipsum dolor sit amet.
-
-[button url="http://www.google.com"]
-
-
-Wir haben eine veränderung durchgemacht
-
-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
